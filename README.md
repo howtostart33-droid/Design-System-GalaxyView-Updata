@@ -1,6 +1,7 @@
 # Design-System-GalaxyView-Updata
 
 What's inside (23 files)
+
 index.html
 package.json
 package-lock.json
